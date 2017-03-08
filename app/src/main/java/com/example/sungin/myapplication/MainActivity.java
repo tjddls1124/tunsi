@@ -11,10 +11,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
     }
-    public static void main(String[] args) {
-
-        System.out.println("Hello World!  <Sung-In>");
-
-    }
 }
-}
+
